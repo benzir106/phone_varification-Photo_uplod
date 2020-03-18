@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454288299804",
+    "firebase_url": "https://phone-varification-8bf93.firebaseio.com",
+    "project_id": "phone-varification-8bf93",
+    "storage_bucket": "phone-varification-8bf93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454288299804:android:32dc73014c421d83baccd9",
+        "android_client_info": {
+          "package_name": "com.shovo.phone_varification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454288299804-mv19448pukr0et2ojde8mb9025ghbega.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shovo.phone_varification",
+            "certificate_hash": "326e67b987f1407a23bbc611259e93439ec120d3"
+          }
+        },
+        {
+          "client_id": "454288299804-dmsma34dfef1ucrqa36g0rbskbcledjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIGUx3apQWinAkUjiv1sRubW9d83N6Z_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454288299804-dmsma34dfef1ucrqa36g0rbskbcledjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
